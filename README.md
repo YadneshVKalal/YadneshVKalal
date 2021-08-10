@@ -2,6 +2,7 @@
 <h3 align="center">Computer Engineering Student</h3>
 
 - 📫 How to reach me **yadneshkalal1137@gmail.com**
+- 👨‍💻 All of my projects are available at https://github.com/YadneshVKalal
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
