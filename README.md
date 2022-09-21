@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yadnesh Kalal</h1>
-<h3 align="center">Computer Engineering Student</h3>
+<h3 align="center">Computer Engineer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/YadneshVKalal](https://github.com/YadneshVKalal)
 
